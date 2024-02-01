@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pTZkwvl7wzpsTAuyoELT41aEwHdx4LTcxBW2lfZetCs=",
+  "Source": "product-service",
+  "BasePath": "_content/product-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
